@@ -52,9 +52,9 @@
   ],
   "resources": [
     {
-      "id": "res-004",
-      "title": "CAPLP Mission Contrôle · Révisions concours",
-      "url": "https://mathsxp.netlify.app/caplp",
+      "id": "res-001",
+      "title": "Fabrique à Prompts - Maths Lycée Pro",
+      "url": "https://tom-rougeaud.github.io/fabrique-maths/",
       "desc": "Génère un prompt personnalisé en quelques étapes, à coller dans une IA (ChatGPT, Claude, Gemini…) ou à générer directement ici.\nPour réviser les maths efficacement — avec une aide adaptée à ton niveau, sans que l'IA réfléchisse à ta place.",
       "descLong": "<p><strong>Génère un prompt personnalisé</strong> en quelques étapes, à coller dans une IA (ChatGPT, Claude, Gemini…) ou à <strong>générer directement ici</strong>.<br>\n    Pour réviser les <strong>maths efficacement</strong> — avec une aide adaptée à ton niveau, sans que l'IA réfléchisse à ta place.\n  </p>",
       "version": "1.0",
@@ -91,7 +91,7 @@
       "createdAt": 1701000000000
     },
     {
-      "id": "res-005",
+      "id": "res-002",
       "title": "Editeur Casier Pédagogique Numérique",
       "url": "https://tom-rougeaud.github.io/CPN/",
       "desc": "Centralisez toutes vos ressources ou outils pédagogique que vous avez créés, vous seul(e) aurez accès au ressources affichées.",
