@@ -1068,7 +1068,7 @@ async function sha256hex(msg){
   return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
 }
 
-const MASTER_HASH='cbff7f92ae1c3bb3b0c36666b99aa18d10971e899e377236f5671c9bd8898ba3';
+const MASTER_HASH='6b2642ce88ab4d1c9a1cc94327d699c05869b4aab3badd0fdcee5bdfceda0716';
 const SK_PWD_HASH='cpn_pwdh1';
 function getStoredHash(){return localStorage.getItem(SK_PWD_HASH)||MASTER_HASH;}
 async function setStoredPwd(plain){
