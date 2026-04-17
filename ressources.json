@@ -8,10 +8,10 @@
     "targets": "Public cible — ex: ['Élève CAP','Prof de Maths']",
     "mainImg": "URL de l'image principale (JPG/PNG, ratio 16:9, max 2 Mo)"
   },
-  "exportedAt": "2026-04-17T16:22:56.178Z",
-  "casier": "Tom Rougeaud",
+  "exportedAt": "2026-04-17T18:13:53.698Z",
+  "casier": "Tom",
   "config": {
-    "name": "Tom Rougeaud",
+    "name": "Tom",
     "subtitle": ""
   },
   "tagsTheme": [
@@ -39,7 +39,6 @@
     "Techno"
   ],
   "tagsTarget": [
-    "Elève Collège",
     "Elève Bac Pro",
     "Elève Bac Général",
     "Elève CAP",
@@ -48,7 +47,9 @@
     "Prof de Techno",
     "Vie Scolaire",
     "Etablissement",
-    "Formateur"
+    "Formateur",
+    "Elève 3ème",
+    "Elève Collège"
   ],
   "resources": [
     {
