@@ -571,7 +571,7 @@ body.admin .admin-toolbar{display:flex;}
     </div>
     <button class="ctrl-btn" id="sort-btn" onclick="cycleSort()">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 6h18M7 12h10M11 18h2"/></svg>
-      <span id="sort-lbl">A→Z</span>
+      <span id="sort-lbl">Date ↓</span>
     </button>
     <button class="ctrl-btn" id="fav-btn" onclick="toggleFavFilter()">
       <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
@@ -1308,11 +1308,11 @@ function getExamples(){
 //  FILTRES & RENDU
 // ═══════════════════════════════════════════════════════════
 const SORTS=[
+  {lbl:'Date ↓',fn:(a,b)=>(b.pubDate||'').localeCompare(a.pubDate||'')},
   {lbl:'A→Z',fn:(a,b)=>a.title.localeCompare(b.title,'fr')},
   {lbl:'Z→A',fn:(a,b)=>b.title.localeCompare(a.title,'fr')},
   {lbl:'Récent',fn:(a,b)=>(b.createdAt||0)-(a.createdAt||0)},
   {lbl:'Ancien',fn:(a,b)=>(a.createdAt||0)-(b.createdAt||0)},
-  {lbl:'Date ↓',fn:(a,b)=>(b.pubDate||'').localeCompare(a.pubDate||'')}
 ];
 function cycleSort(){
   sortIdx=(sortIdx+1)%SORTS.length;
