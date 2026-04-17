@@ -1067,8 +1067,8 @@ async function sha256hex(msg){
   const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(msg));
   return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
 }
-// Mot de passe par défaut : Azerty0000!!!! → hash SHA-256 hardcodé
-const MASTER_HASH='69b69976b18d16c48365f4c6b2b9e492c5694197f09dab623eef1c17e50e291b';
+
+const MASTER_HASH='cbff7f92ae1c3bb3b0c36666b99aa18d10971e899e377236f5671c9bd8898ba3';
 const SK_PWD_HASH='cpn_pwdh1';
 function getStoredHash(){return localStorage.getItem(SK_PWD_HASH)||MASTER_HASH;}
 async function setStoredPwd(plain){
