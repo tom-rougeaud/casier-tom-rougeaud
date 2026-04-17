@@ -129,27 +129,5 @@
       "createdAt"  : 1701000000000,
       "history"    : []
     },
-    {
-      "_comment"   : "Ressource 5 — Générateur de prompts IA pour profs",
-      "id"         : "res-005",
-      "title"      : "Fabrique à Prompts · Générateur IA pour profs",
-      "url"        : "https://mathsxp.netlify.app/fabrique",
-      "version"    : "1.5",
-      "pubDate"    : "2026-04-02",
-      "desc"       : "Wizard 6 étapes pour créer des prompts IA adaptés aux cours de maths LP.",
-      "descLong"   : "<p>Sélectionnez un chapitre BO, un type de ressource, un thème visuel. Génère un prompt structuré prêt à coller dans Claude ou ChatGPT.</p>",
-      "tags"       : ["Outil","IA","Pédagogie","Prof De Maths","Bac Pro","CAP"],
-      "targets"    : ["Prof de Maths","Prof de Maths-Sciences"],
-      "mainImg"    : "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&q=80",
-      "mainPX"     : 0,
-      "mainPY"     : 0,
-      "mainScale"  : 1,
-      "imgs"       : [],
-      "attachments": [],
-      "favs"       : 9,
-      "views"      : 41,
-      "createdAt"  : 1712000000000,
-      "history"    : []
-    }
   ]
 }
