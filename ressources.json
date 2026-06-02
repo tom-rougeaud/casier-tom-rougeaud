@@ -1,69 +1,19 @@
 {
-  "_info": "Fichier généré par MathsXP · Casier Pédagogique Numérique",
-  "_guide": {
-    "title": "Titre de la ressource",
-    "url": "URL principale de la ressource",
-    "desc": "Courte description (1-2 phrases)",
-    "tags": "Thèmes/types — ex: ['Jeu','Maths','CAP']",
-    "targets": "Public cible — ex: ['Élève CAP','Prof de Maths']",
-    "mainImg": "URL de l'image principale (JPG/PNG, ratio 16:9, max 2 Mo)"
-  },
-  "exportedAt": "2026-06-02T21:40:02.196Z",
-  "casier": "Tom Rougeaud",
-  "config": {
-    "name": "Tom Rougeaud",
-    "subtitle": ""
-  },
-  "tagsTheme": [
-    "Jeu",
-    "Outil",
-    "Cours",
-    "Évaluation",
-    "Maths",
-    "Sciences",
-    "Design",
-    "Pédagogie",
-    "Bac Pro",
-    "CAP",
-    "DNB",
-    "3ème",
-    "Bac Général",
-    "Bac Techno",
-    "Collège",
-    "Exerciseur",
-    "Révisions",
-    "PC",
-    "Smartphone",
-    "IA",
-    "Ressource extérieure",
-    "Techno"
-  ],
-  "tagsTarget": [
-    "Elève Bac Pro",
-    "Elève Bac Général",
-    "Elève CAP",
-    "Prof de Maths",
-    "Prof de Sciences",
-    "Prof de Techno",
-    "Vie Scolaire",
-    "Etablissement",
-    "Formateur",
-    "Elève 3ème",
-    "Elève Collège"
-  ],
   "resources": [
     {
       "id": "mpx5llpq199p8tgnd37",
+      "favs": false,
+      "createdAt": 1780435958318,
+      "history": [],
       "title": "Progression Maths en Lycée Pro",
       "url": "https://www.https://tom-rougeaud.github.io/progression/",
       "desc": "Outil de suivi de progression annuelle couvrant tous les niveaux de maths en Lycée Pro, avec export interactif.",
       "descLong": "<div class=\"hd\" style=\"margin: 0px 0px 24px; padding: 0px 0px 20px; display: flex; align-items: center; gap: 16px; border-bottom: 2px solid rgb(26, 95, 165); color: rgb(28, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px;\"><div><div class=\"hd-title\" style=\"font-size: 20px; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase; line-height: 1.15;\">Progression Maths en Lycée Pro</div><div class=\"hd-sub\" style=\"margin: 3px 0px 0px; font-size: 11px; color: rgb(136, 136, 136); letter-spacing: 0.04em;\">Outil de suivi pédagogique · 5 niveaux · Conforme BO · 100 % local</div></div><div class=\"hd-right\" style=\"margin: 0px 0px 0px auto; text-align: right; font-size: 11px; color: rgb(170, 170, 170); line-height: 1.7;\">Fichier HTML autonome<br>146 Ko · gratuit<br>© 2026 Tom Rougeaud</div></div><div class=\"intro\" style=\"margin: 0px 0px 24px; padding: 14px 18px; background: rgb(232, 241, 251); border-left: 4px solid rgb(26, 95, 165); border-radius: 0px 8px 8px 0px; font-size: 13px; color: rgb(28, 28, 31); line-height: 1.7; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif;\">Un fichier HTML unique — aucune installation, aucun compte — qui permet à un enseignant de mathématiques en voie professionnelle de suivre la progression de ses classes sur l'ensemble du programme officiel.</div><div class=\"cols3\" style=\"margin: 0px 0px 24px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; color: rgb(28, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px;\"><div class=\"card\" style=\"padding: 16px 14px; background: rgb(248, 245, 240); border: 1px solid rgb(224, 220, 213); border-radius: 10px;\"><div class=\"card-ttl\" style=\"margin: 0px 0px 10px; font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgb(136, 136, 136);\">5 niveaux couverts</div><div class=\"card-row\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px; font-size: 12px;\">📗 3ème Prépa Métiers</div><div class=\"card-row\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px; font-size: 12px;\">📙 CAP</div><div class=\"card-row\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px; font-size: 12px;\">📘 2nde Professionnelle</div><div class=\"card-row\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px; font-size: 12px;\">📓 1ère Professionnelle</div><div class=\"card-row\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px; font-size: 12px;\">📕 Terminale Professionnelle</div><div class=\"card-muted\" style=\"margin: 8px 0px 0px; font-size: 10.5px; color: rgb(170, 170, 170); line-height: 1.5;\">Conformes aux BO<br>Automatismes DNB 2026 inclus</div></div><div class=\"card\" style=\"padding: 16px 14px; background: rgb(248, 245, 240); border: 1px solid rgb(224, 220, 213); border-radius: 10px;\"><div class=\"card-ttl\" style=\"margin: 0px 0px 10px; font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgb(136, 136, 136);\">4 statuts + spiralaire</div><div class=\"srow\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px;\"><div class=\"sbox\" style=\"width: 22px; height: 22px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; flex-shrink: 0; border: 1.5px solid rgb(204, 204, 204);\">○</div><span class=\"slbl\" style=\"font-size: 12px;\">Non travaillé</span></div><div class=\"srow\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px;\"><div class=\"sbox s1\" style=\"width: 22px; height: 22px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; flex-shrink: 0; border: 1.5px solid rgb(201, 120, 0); background: rgb(254, 245, 222);\">🌱</div><span class=\"slbl\" style=\"font-size: 12px;\">En cours</span></div><div class=\"srow\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px;\"><div class=\"sbox s2\" style=\"width: 22px; height: 22px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; flex-shrink: 0; border: 1.5px solid rgb(107, 56, 192); background: rgb(238, 235, 253);\">🔵</div><span class=\"slbl\" style=\"font-size: 12px;\">En révision</span></div><div class=\"srow\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px;\"><div class=\"sbox s3\" style=\"width: 22px; height: 22px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; flex-shrink: 0; border: 1.5px solid rgb(26, 140, 61); background: rgb(228, 247, 234);\">✅</div><span class=\"slbl\" style=\"font-size: 12px;\">Maîtrisé</span></div><div class=\"srow\" style=\"margin: 0px 0px 5px; display: flex; align-items: center; gap: 8px;\"><div class=\"sbox s4\" style=\"width: 22px; height: 22px; border-radius: 4px; display: flex; align-items: center; justify-content: center; font-size: 10px; flex-shrink: 0; border: 1.5px solid rgb(13, 122, 138); background: rgb(224, 245, 247);\">↩</div><span class=\"slbl\" style=\"font-size: 12px;\">Pédagogie spiralaire</span></div><div class=\"card-muted\" style=\"margin: 8px 0px 0px; font-size: 10.5px; color: rgb(170, 170, 170); line-height: 1.5;\">Date enregistrée automatiquement à chaque changement</div></div><div class=\"card\" style=\"padding: 16px 14px; background: rgb(248, 245, 240); border: 1px solid rgb(224, 220, 213); border-radius: 10px;\"><div class=\"card-ttl\" style=\"margin: 0px 0px 10px; font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgb(136, 136, 136);\">Bilans &amp; exports</div><div class=\"export-row\" style=\"margin: 0px 0px 6px; display: flex; align-items: flex-start; gap: 7px; font-size: 12px;\">📑Rapport thématique par domaine</div><div class=\"export-row\" style=\"margin: 0px 0px 6px; display: flex; align-items: flex-start; gap: 7px; font-size: 12px;\">📅Chronologique — par mois ou période scolaire (P1→P5)</div><div class=\"export-sub\" style=\"margin: 1px 0px 0px 23px; font-size: 10.5px; color: rgb(170, 170, 170);\">Calendrier 2024–2035 intégré</div><div class=\"export-row\" style=\"margin: 0px 0px 6px; display: flex; align-items: flex-start; gap: 7px; font-size: 12px;\">🖨️Export PDF pleine largeur</div><div class=\"export-row\" style=\"margin: 0px 0px 6px; display: flex; align-items: flex-start; gap: 7px; font-size: 12px;\">⬇️Export HTML dynamique partageable</div><div class=\"export-sub\" style=\"margin: 1px 0px 0px 23px; font-size: 10.5px; color: rgb(170, 170, 170);\">Accordéon temporel avec progression</div></div></div><div class=\"sec-ttl\" style=\"margin: 0px 0px 10px; font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgb(136, 136, 136); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif;\">Fonctionnalités clés</div><table class=\"feat-tbl\" style=\"margin: 0px 0px 24px; width: 732px; border-collapse: collapse; background: rgb(248, 245, 240); border: 1px solid rgb(224, 220, 213); border-radius: 10px; overflow: hidden; color: rgb(28, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px;\"><tbody><tr style=\"border-bottom: 1px solid rgb(232, 227, 216);\"><td class=\"feat-key\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; font-weight: 700; color: rgb(26, 95, 165); width: 307.1px; white-space: nowrap;\">✏️ Personnalisation totale</td><td class=\"feat-val\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; color: rgb(107, 107, 106); line-height: 1.55;\">Renommer, supprimer, ajouter à tous les niveaux. Chaque classe a ses propres personnalisations indépendantes.</td></tr><tr style=\"border-bottom: 1px solid rgb(232, 227, 216);\"><td class=\"feat-key\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; font-weight: 700; color: rgb(26, 95, 165); width: 307.1px; white-space: nowrap;\">👥 Multi-classes par niveau</td><td class=\"feat-val\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; color: rgb(107, 107, 106); line-height: 1.55;\">Créez autant de classes que nécessaire (2nde MELEC, 2nde SEN…). Couleur, année et établissement par classe.</td></tr><tr style=\"border-bottom: 1px solid rgb(232, 227, 216);\"><td class=\"feat-key\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; font-weight: 700; color: rgb(26, 95, 165); width: 307.1px; white-space: nowrap;\">↩↪ Ctrl+Z / Ctrl+Y</td><td class=\"feat-val\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; color: rgb(107, 107, 106); line-height: 1.55;\">Annulation et rétablissement de toutes les actions. Pile de 30 états. Barre d'état visible en bas.</td></tr><tr style=\"border-bottom: 1px solid rgb(232, 227, 216);\"><td class=\"feat-key\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; font-weight: 700; color: rgb(26, 95, 165); width: 307.1px; white-space: nowrap;\">✓ Valider un module entier</td><td class=\"feat-val\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; color: rgb(107, 107, 106); line-height: 1.55;\">Un clic marque toutes les notions d'un chapitre comme Maîtrisé, avec la date du jour.</td></tr><tr style=\"border-bottom-width: medium; border-bottom-style: none; border-bottom-color: currentcolor;\"><td class=\"feat-key\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; font-weight: 700; color: rgb(26, 95, 165); width: 307.1px; white-space: nowrap;\">📱 Responsive</td><td class=\"feat-val\" style=\"padding: 8px 12px; vertical-align: top; font-size: 12px; color: rgb(107, 107, 106); line-height: 1.55;\">PC, tablette, mobile portrait et paysage. Menu burger avec toutes les actions sur mobile.</td></tr></tbody></table><div class=\"sec-ttl\" style=\"margin: 0px 0px 10px; font-size: 9px; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: rgb(136, 136, 136); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif;\">Souveraineté des données</div><div class=\"cols3-priv\" style=\"margin: 0px 0px 28px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; color: rgb(28, 28, 31); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px;\"><div class=\"priv-card\" style=\"padding: 16px 14px; background: rgb(248, 245, 240); border-width: 3px 1px 1px; border-style: solid; border-color: rgb(26, 95, 165) rgb(224, 220, 213) rgb(224, 220, 213); border-image: initial; border-radius: 10px; text-align: center;\"><div class=\"priv-ico\" style=\"margin: 0px 0px 8px; font-size: 26px;\">🔒</div><div class=\"priv-ttl\" style=\"margin: 0px 0px 4px; font-size: 12px; font-weight: 700;\">Zéro transmission</div><div class=\"priv-txt\" style=\"font-size: 11px; color: rgb(136, 136, 136); line-height: 1.55;\">localStorage uniquement. Aucun serveur, aucun tracker, aucune analytics.</div></div><div class=\"priv-card\" style=\"padding: 16px 14px; background: rgb(248, 245, 240); border-width: 3px 1px 1px; border-style: solid; border-color: rgb(26, 95, 165) rgb(224, 220, 213) rgb(224, 220, 213); border-image: initial; border-radius: 10px; text-align: center;\"><div class=\"priv-ico\" style=\"margin: 0px 0px 8px; font-size: 26px;\">📶</div><div class=\"priv-ttl\" style=\"margin: 0px 0px 4px; font-size: 12px; font-weight: 700;\">Hors connexion</div><div class=\"priv-txt\" style=\"font-size: 11px; color: rgb(136, 136, 136); line-height: 1.55;\">Fonctionne sans internet une fois chargé dans le navigateur.</div></div><div class=\"priv-card\" style=\"padding: 16px 14px; background: rgb(248, 245, 240); border-width: 3px 1px 1px; border-style: solid; border-color: rgb(26, 95, 165) rgb(224, 220, 213) rgb(224, 220, 213); border-image: initial; border-radius: 10px; text-align: center;\"><div class=\"priv-ico\" style=\"margin: 0px 0px 8px; font-size: 26px;\">📄</div><div class=\"priv-ttl\" style=\"margin: 0px 0px 4px; font-size: 12px; font-weight: 700;\">Un seul fichier</div><div class=\"priv-txt\" style=\"font-size: 11px; color: rgb(136, 136, 136); line-height: 1.55;\">Sauvegarde JSON horodatée. Import sur tout appareil. 146 Ko autonome</div></div></div>",
       "version": "",
       "pubDate": "2026-06-02",
-      "history": [],
       "mainImg": "https://github.com/tom-rougeaud/progression/blob/main/IMG%20PROGRESSION/Capture%20d'%C3%A9cran%202026-06-02%20231648.png?raw=true",
-      "mainPX": -50,
-      "mainPY": 4,
+      "mainPX": 85,
+      "mainPY": -2,
       "mainScale": 1.26,
       "imgs": [
         {
@@ -114,9 +64,38 @@
       ],
       "targets": [
         "Prof de Maths"
+      ]
+    },
+    {
+      "id": "res-008",
+      "title": "XY Shooter",
+      "url": "https://tom-rougeaud.github.io/shooter-xy/",
+      "desc": "Serious Game conçu pour travailler la notion de fonction : lecture de coordonnées, calcul de trajectoires affines et parabolique, calcul de coefficient directeur, du discriminant Δ,",
+      "descLong": "<h2 class=\"card-title h5-fs\" style=\"margin-bottom: 8px; font-family: Abel, &quot;Odoo Unicode Support Noto&quot;, sans-serif; line-height: 1.2; color: rgb(33, 37, 41); font-size: 1.125rem; letter-spacing: normal;\"><span style=\"font-size: 28px;\"><em><font style=\"color: rgb(80, 149, 215);\">XY SHOOTER&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</font></em></span></h2><p class=\"card-text\" style=\"margin-bottom: 16px; color: rgb(33, 37, 41); font-family: Inter, &quot;Odoo Unicode Support Noto&quot;, sans-serif; font-size: 16px;\"><span class=\"h4-fs\" style=\"font-size: 1.25rem;\">Serious Game conçu pour&nbsp;<em><font style=\"color: rgb(80, 149, 215);\">travailler la notion de fonction</font></em>&nbsp;: lecture de coordonnées, calcul de trajectoires affines et parabolique, calcul de coefficient directeur, du discriminant Δ, du nombre de solutions d'un polynômes, calcul&nbsp;des racines et des coordonnées du sommet d'une parabole, tout y passe !&nbsp;</span></p><p class=\"card-text\" style=\"margin-bottom: 16px; color: rgb(33, 37, 41); font-family: Inter, &quot;Odoo Unicode Support Noto&quot;, sans-serif; font-size: 16px;\"><span class=\"h4-fs\" style=\"font-size: 1.25rem;\">Un seul objectif :&nbsp;<em><font style=\"color: rgb(80, 149, 215);\">shooter la cible.</font></em></span></p><p class=\"card-text\" style=\"margin-bottom: 16px; color: rgb(33, 37, 41); font-family: Inter, &quot;Odoo Unicode Support Noto&quot;, sans-serif; font-size: 16px;\"><span class=\"h4-fs\" style=\"font-size: 1.25rem;\">Que ce soit les élèves de&nbsp;<em><font style=\"color: rgb(80, 149, 215);\">3ème</font></em>&nbsp;ou de&nbsp;<em><font style=\"color: rgb(80, 149, 215);\">Terminale Bac Pro</font></em>, chacun y révisera le cours tout en jouant.</span></p>",
+      "version": "1.4",
+      "pubDate": "2026-03-02",
+      "history": [],
+      "mainImg": "https://mathsxp.odoo.com/web/image/624-02336c52/Capture%20d%27%C3%A9cran%202026-02-09%20232054.webp",
+      "mainPX": 0,
+      "mainPY": 0,
+      "mainScale": 1.09,
+      "imgs": [],
+      "attachments": [],
+      "tags": [
+        "Jeu",
+        "Maths",
+        "Pédagogie",
+        "Bac Pro",
+        "Révisions",
+        "PC"
+      ],
+      "targets": [
+        "Elève Bac Pro",
+        "Elève Bac Général",
+        "Prof de Maths"
       ],
       "favs": false,
-      "createdAt": 1780435958318
+      "createdAt": 1776459789114
     },
     {
       "id": "res-004",
@@ -413,5 +392,46 @@
       "favs": false,
       "createdAt": 1712000000000
     }
-  ]
+  ],
+  "tagsTheme": [
+    "Jeu",
+    "Outil",
+    "Cours",
+    "Évaluation",
+    "Maths",
+    "Sciences",
+    "Design",
+    "Pédagogie",
+    "Bac Pro",
+    "CAP",
+    "DNB",
+    "3ème",
+    "Bac Général",
+    "Bac Techno",
+    "Collège",
+    "Exerciseur",
+    "Révisions",
+    "PC",
+    "Smartphone",
+    "IA",
+    "Ressource extérieure",
+    "Techno"
+  ],
+  "tagsTarget": [
+    "Elève Bac Pro",
+    "Elève Bac Général",
+    "Elève CAP",
+    "Prof de Maths",
+    "Prof de Sciences",
+    "Prof de Techno",
+    "Vie Scolaire",
+    "Etablissement",
+    "Formateur",
+    "Elève 3ème",
+    "Elève Collège"
+  ],
+  "cfg": {
+    "name": "Tom Rougeaud",
+    "subtitle": ""
+  }
 }
